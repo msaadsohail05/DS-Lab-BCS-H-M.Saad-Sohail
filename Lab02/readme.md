@@ -20,4 +20,5 @@
 #task 7:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/72599198-ac9f-421f-9d06-d7e10c632ee3" />
 
-
+#task 9:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aa81d2b1-bc5d-423c-94c1-a0a5677080a8" />
