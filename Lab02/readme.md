@@ -5,3 +5,5 @@
 #task 2:
 <img width="979" height="324" alt="image" src="https://github.com/user-attachments/assets/ddd2627f-01cb-43b9-aa54-550f90d4b30e" />
 
+#task 3:
+<img width="967" height="484" alt="image" src="https://github.com/user-attachments/assets/e4aa6014-e384-43d7-9d30-01e932a73e85" />
