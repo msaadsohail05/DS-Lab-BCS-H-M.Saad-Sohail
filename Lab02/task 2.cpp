@@ -41,6 +41,9 @@ int main(){
 			cout<<array1[i][j]<<" ";
 		}
 		cout<<endl; 				
+	}
+	for(int i=0;i<r;i++){
+		delete array1[i];
 	}	
 	delete[] array1;	
 	return 0;
