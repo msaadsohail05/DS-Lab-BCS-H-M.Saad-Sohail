@@ -6,7 +6,8 @@
 using namespace std;
 
 int main(){
-	int size,flag;
+	int size,flag,sum;
+	float avg;
 	cout<<"Enter the number of months: ";
 	cin >> size;
 	int* array1 = new int[size];
@@ -21,12 +22,19 @@ int main(){
 	for(int i=0;i<size;i++){
 		cout<<array1[i]<<endl;
 	}
-	cout<<"Enter 1 if u want to resize array: "
+	for(int j=0;j<size;j++){
+		sum += array1[j];
+	}
+	avg = sum/size;
+	cout<<"Total expenses: "<<sum<<endl;
+	cout<<"Average expense: "<<avg<<endl;
+	
+	cout<<"Enter 1 if u want to resize array: ";
 	cin>>flag;
 	while(flag ==1){
 		int size1; 
 		cout<<"Enter the number of additional months: ";
-		cin>>size1
+		cin>>size1;
 		int size2 = size + size1;
 		int* array2 = new int[size2];
 		for(int i=0;i<size;i++){
@@ -35,14 +43,22 @@ int main(){
 		delete [] array1;
 		for(int j=size;j<size2;j++){
 			cout<<"Enter your expenses for the month"<<j+1<<": ";
-			cin>>array2[j]	
+			cin>>array2[j];	
 		}
 		cout<<"Displaying expenses for all months: "<<endl;
 		for(int i=0;i<size2;i++){
 			cout<<array2[i]<<endl;
 		}
+		for(int j=0;j<size2;j++){
+			sum += array2[j];
+		}
+		avg = sum/size2;
+		cout<<"Total expenses: "<<sum<<endl;
+		cout<<"Average expense: "<<avg<<endl;
 		
-		cout<<"Enter 1 if u want to resize array: "
+		delete [] array2;
+		
+		cout<<"Enter 1 if u want to resize array: ";
 		cin>>flag;
 	}
 	
