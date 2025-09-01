@@ -13,3 +13,8 @@
 
 #task 5:
 <img width="865" height="461" alt="image" src="https://github.com/user-attachments/assets/0bd5b19f-773b-4fd3-bdca-bceec652e774" />
+
+#task 6:
+<img width="662" height="334" alt="image" src="https://github.com/user-attachments/assets/f0e0db39-b692-4954-a77b-d87e7db81329" />
+
+
