@@ -7,3 +7,6 @@
 
 #task 3:
 <img width="967" height="484" alt="image" src="https://github.com/user-attachments/assets/e4aa6014-e384-43d7-9d30-01e932a73e85" />
+
+#task 4:
+<img width="912" height="464" alt="image" src="https://github.com/user-attachments/assets/79f6660c-5557-4056-a2e8-2e6d9c292e66" />
