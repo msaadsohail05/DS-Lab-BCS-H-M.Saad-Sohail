@@ -7,9 +7,9 @@ using namespace std;
 
 class Node{
 	public:
-		char data;
+		int data;
 		Node* next;
-		Node(char val){
+		Node(int val){
 			data = val;
 			next = NULL;
 		}		
@@ -23,7 +23,7 @@ class Singly{
 			head = NULL;
 			tail = NULL;
 		}
-		void insertAtStart(char d){
+		void insertAtStart(int d){
 			Node* n = new Node(d);
 			if(head == NULL){
 				head = tail = n; 
@@ -35,7 +35,7 @@ class Singly{
 			cout<<"Node inserted at the start"<<endl;	
 		}
 		
-		void insertAtEnd(char d){
+		void insertAtEnd(int d){
 			Node* newNode= new Node(d);
 			if(head == NULL){
 				head = newNode;
@@ -82,7 +82,7 @@ class Singly{
 
 int main(){
 	int flag,count=0,sort;
-	char val;
+	int val;
 	Singly list1;
 	cout<<"Operations of linked list 1"<<endl;
 	cout<<"Enter 1 to insert a node or 0 to not insert a node: ";
@@ -124,7 +124,7 @@ int main(){
 	
 	//second linked list
 	int flag1,count1=0,sort1;
-	char val1;
+	int val1;
 	Singly list2;
 	cout<<"Operations of linked list 2"<<endl;
 	cout<<"Enter 1 to insert a node or 0 to not insert a node: ";
