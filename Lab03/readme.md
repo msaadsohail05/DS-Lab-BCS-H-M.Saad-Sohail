@@ -9,5 +9,13 @@
 #task 3:-
 <img width="1025" height="508" alt="image" src="https://github.com/user-attachments/assets/75e1bf50-6ead-49fa-b7dd-44f9c3661b55" />
 
+#task 4:
+<img width="582" height="354" alt="image" src="https://github.com/user-attachments/assets/889da674-85c8-4ab9-bbf9-1394e7011061" />
+
+
+
+
+
+
 
 
