@@ -2,3 +2,7 @@
 
 #task1:-
 <img width="654" height="328" alt="image" src="https://github.com/user-attachments/assets/d145f06d-bf38-428d-af71-2b0062d6a897" />
+
+#task2:-
+<img width="832" height="462" alt="image" src="https://github.com/user-attachments/assets/9054bccb-3967-4759-848a-7858b4e52a7a" />
+
