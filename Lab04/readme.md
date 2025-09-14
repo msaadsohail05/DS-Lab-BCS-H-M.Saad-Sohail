@@ -6,3 +6,6 @@
 #task2:-
 <img width="832" height="462" alt="image" src="https://github.com/user-attachments/assets/9054bccb-3967-4759-848a-7858b4e52a7a" />
 
+#task 3:-
+<img width="650" height="469" alt="image" src="https://github.com/user-attachments/assets/2fbd4acc-498e-4d11-bb01-e72ac2cfb995" />
+
