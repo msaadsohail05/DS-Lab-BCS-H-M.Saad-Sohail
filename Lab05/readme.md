@@ -13,3 +13,5 @@
 <img width="388" height="180" alt="image" src="https://github.com/user-attachments/assets/627f05d6-e1d5-4fab-a921-9c49062c6e29" />
 
 # part 2:
+<img width="436" height="180" alt="image" src="https://github.com/user-attachments/assets/cd622541-580d-43c7-aacb-d87eabe20e4b" />
+
