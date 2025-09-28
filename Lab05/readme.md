@@ -15,3 +15,5 @@
 # part 2:
 <img width="436" height="180" alt="image" src="https://github.com/user-attachments/assets/cd622541-580d-43c7-aacb-d87eabe20e4b" />
 
+# task 6:
+<img width="608" height="453" alt="image" src="https://github.com/user-attachments/assets/50a001de-474a-4ea0-ae44-0623167fcb8f" />
